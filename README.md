@@ -83,40 +83,77 @@
 
 ### 💻 Projects
 
-1. **Hybrid-ANN-PCA-MLP Model for Credit Card Fraud Detection**  
-   Combines Principal Component Analysis (PCA) for dimensionality reduction with a Multi-Layer Perceptron (MLP) for precise and efficient credit card fraud detection.  
-   **Tech Stack**: Python, Scikit-learn, PCA, MLP, NumPy, Matplotlib, Pandas  
-   **Tools**: Jupyter Notebook, Anaconda, VS Code, Git, GitHub  
+#### 1. Hybrid-ANN-PCA-MLP Model for Credit Card Fraud Detection
+🔍 **Overview**: A hybrid model that integrates PCA for dimensionality reduction and an MLP neural network to enhance fraud detection accuracy in credit card transactions.  
+🧠 **Responsibilities**:
+- Preprocessed transaction data for training and testing.
+- Applied PCA to reduce feature dimensions.
+- Trained an MLP model and evaluated performance with accuracy and F1 score.  
+🛠️ **Tech Stack**: Python, Scikit-learn, PCA, MLP, NumPy, Matplotlib, Pandas  
+🔧 **Tools**: Jupyter Notebook, Anaconda, VS Code
 
-2. **Predictive Maintenance Using Machine Learning**  
-   Predicts equipment failures to reduce downtime, featuring a frontend dashboard built with React and visualizations using Chart.js and React Charts.  
-   **Tech Stack**: React, Chart.js, React Charts, JavaScript, Python, Pandas, Scikit-learn  
-   **Tools**: VS Code, Jupyter Notebook, Anaconda, Postman, Git, GitHub  
+---
 
-3. **Storytelling Platform (React + Spring Boot)**  
-   A user-driven content platform that enables users to create, view, and manage stories with secure backend operations.  
-   **Tech Stack**: React, Java, Spring Boot, Spring MVC, JPA, PostgreSQL, REST APIs  
-   **Tools**: IntelliJ IDEA, VS Code, Maven, Postman, Git, GitHub  
+#### 2. Predictive Maintenance Using Machine Learning
+🛠️ **Overview**: Developed a predictive maintenance dashboard using ML and React to anticipate equipment failures and minimize downtime.  
+💡 **Responsibilities**:
+- Built machine learning models for failure prediction.
+- Created interactive charts using React Charts and Chart.js.
+- Developed the frontend with React and integrated it with backend outputs.  
+🛠️ **Tech Stack**: React, Chart.js, React Charts, JavaScript, Python, Pandas, Scikit-learn  
+🔧 **Tools**: VS Code, Anaconda, Jupyter Notebook, Postman
 
-4. **Birthday Event Planner (React + Vite + Spring Boot + Security)**  
-   Event planning app with features like guest list management, event scheduling, and budget tracking. Implements secure user login with JWT and Spring Security, Redux for state management, and lazy loading for performance.  
-   **Tech Stack**: React, Redux, Vite, Java, Spring Boot, Spring Security, JWT, JPA, PostgreSQL, REST APIs  
-   **Tools**: VS Code, Eclipse, Postman, Maven, Git, GitHub  
+---
 
-5. **Cricket Stats Website (React + Spring Boot + JPA)**  
-   Visualizes cricket statistics including players and matches. Provides interactive UI and RESTful backend APIs.  
-   **Tech Stack**: React, Java, Spring Boot, JPA, PostgreSQL, Axios, Chart.js  
-   **Tools**: IntelliJ IDEA, VS Code, Maven, Postman, Git, GitHub  
+#### 3. Storytelling Platform
+📖 **Overview**: A full-stack platform allowing users to write, view, and manage stories securely.  
+💡 **Responsibilities**:
+- Developed UI using React and integrated REST APIs.
+- Implemented backend services with Spring Boot and JPA.
+- Used PostgreSQL for persistent data storage.  
+🛠️ **Tech Stack**: React, Java, Spring Boot, Spring MVC, JPA, PostgreSQL  
+🔧 **Tools**: IntelliJ IDEA, VS Code, Maven, Postman
 
-6. **Restaurant Management System (React + Spring Boot + JPA)**  
-   Streamlines restaurant operations with modules for order management, table bookings, and digital menus.  
-   **Tech Stack**: React, Java, Spring Boot, Spring Data JPA, MySQL, REST APIs, Bootstrap  
-   **Tools**: IntelliJ IDEA, VS Code, MySQL Workbench, Postman, Maven, Git, GitHub  
+---
 
-7. **E-commerce React App**  
-   A simple front-end e-commerce application to display products and simulate a shopping experience.  
-   **Tech Stack**: React, HTML5, CSS3, JavaScript (ES6), JSX  
-   **Tools**: VS Code, Git, GitHub  
+#### 4. Birthday Event Planner
+🎉 **Overview**: A planning tool that manages events, guests, budgets, and schedules with secure authentication.  
+🔐 **Features**:
+- Spring Security with JWT-based login.
+- Redux for state management and lazy loading for optimization.
+- Integrated full-stack features with Vite + Spring Boot.  
+🛠️ **Tech Stack**: React, Redux, Vite, Spring Boot, Spring Security, JWT, JPA, PostgreSQL  
+🔧 **Tools**: VS Code, Eclipse, Maven, Postman
+
+---
+
+#### 5. Cricket Stats Website
+🏏 **Overview**: A web app to visualize player and match statistics using dynamic charts and RESTful APIs.  
+📊 **Responsibilities**:
+- Developed React components for charts and stats.
+- Designed REST APIs in Spring Boot and connected with PostgreSQL.  
+🛠️ **Tech Stack**: React, Spring Boot, JPA, PostgreSQL, Axios, Chart.js  
+🔧 **Tools**: IntelliJ IDEA, VS Code, Maven, Postman
+
+---
+
+#### 6. Restaurant Management System
+🍽️ **Overview**: An app for managing restaurant operations like table booking, order tracking, and menus.  
+💼 **Responsibilities**:
+- Built CRUD operations with Spring Boot and MySQL.
+- Designed the UI with React and styled using Bootstrap.  
+🛠️ **Tech Stack**: React, Spring Boot, JPA, MySQL, REST APIs, Bootstrap  
+🔧 **Tools**: IntelliJ IDEA, VS Code, MySQL Workbench, Postman, Maven
+
+---
+
+#### 7. E-commerce React App
+🛒 **Overview**: A basic e-commerce frontend to display products and simulate shopping actions.  
+💡 **Responsibilities**:
+- Designed responsive layouts using CSS3 and React components.
+- Implemented product listing and cart UI.  
+🛠️ **Tech Stack**: React, HTML5, CSS3, JavaScript (ES6), JSX  
+🔧 **Tools**: VS Code
 
 ---
 
