@@ -184,14 +184,12 @@ Sri Krishna College of Technology, Coimbatore
 📅 Dec 2021 - Mar 2025  
 📊 CGPA: 7.22  
 
----
 
 **Higher Secondary Certificate (HSC) - Computer Science**  
 Kamaraj Matriculation Higher Secondary School, Kovilpatti  
 📅 June 2020 - May 2021  
 📈 77%
 
----
 
 **Secondary School Leaving Certificate (SSLC)**  
 Kamaraj Matriculation Higher Secondary School, Kovilpatti  
