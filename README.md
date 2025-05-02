@@ -297,6 +297,15 @@ Kamaraj Matriculation Higher Secondary School, Kovilpatti
 
 ---
 
+## 📄 Resume
+
+You can view and download my latest resume from the link below:
+
+- [📄 Download Resume](https://drive.google.com/file/d/your-resume-link-here/view?usp=drive_link)
+
+Feel free to reach out if you'd like to discuss any of the experience listed in my resume!
+
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
