@@ -84,78 +84,94 @@
 ### 💻 Projects
 
 #### 1. Hybrid-ANN-PCA-MLP Model for Credit Card Fraud Detection
-🔍 **Overview**: A hybrid model that integrates PCA for dimensionality reduction and an MLP neural network to enhance fraud detection accuracy in credit card transactions.  
-🧠 **Responsibilities**:
-- Preprocessed transaction data for training and testing.
-- Applied PCA to reduce feature dimensions.
-- Trained an MLP model and evaluated performance with accuracy and F1 score.  
-🛠️ **Tech Stack**: Python, Scikit-learn, PCA, MLP, NumPy, Matplotlib, Pandas  
-🔧 **Tools**: Jupyter Notebook, Anaconda, VS Code
+🔍 **Overview**: Developed a hybrid model combining PCA for dimensionality reduction and MLP neural networks for accurate fraud detection. 
+
+💼 **Responsibilities**:
+- Preprocessed financial transaction data for training.
+- Applied PCA to reduce high-dimensional feature space.
+- Trained and optimized MLP models, evaluated with metrics like accuracy and precision.
+  
+🛠️ **Tech Stack**: Python, Scikit-learn, NumPy, Pandas, Matplotlib, PCA, MLP  
+🔧 **Tools**: Jupyter Notebook, Anaconda, VS Code, Git, GitHub
 
 ---
 
 #### 2. Predictive Maintenance Using Machine Learning
-🛠️ **Overview**: Developed a predictive maintenance dashboard using ML and React to anticipate equipment failures and minimize downtime.  
-💡 **Responsibilities**:
-- Built machine learning models for failure prediction.
-- Created interactive charts using React Charts and Chart.js.
-- Developed the frontend with React and integrated it with backend outputs.  
-🛠️ **Tech Stack**: React, Chart.js, React Charts, JavaScript, Python, Pandas, Scikit-learn  
-🔧 **Tools**: VS Code, Anaconda, Jupyter Notebook, Postman
+⚙️ **Overview**: Built a predictive dashboard to forecast equipment failures, combining ML modeling with frontend visualization.  
+
+💼 **Responsibilities**:
+- Trained machine learning models using Scikit-learn.
+- Developed a frontend dashboard using React, Chart.js, and React Charts.
+- Visualized data trends and alerts for timely maintenance.
+  
+🛠️ **Tech Stack**: Python, React, Chart.js, React Charts, JavaScript, Pandas, Scikit-learn  
+🔧 **Tools**: Jupyter Notebook, Anaconda, VS Code, Figma, Git, GitHub, Postman
 
 ---
 
 #### 3. Storytelling Platform
-📖 **Overview**: A full-stack platform allowing users to write, view, and manage stories securely.  
-💡 **Responsibilities**:
-- Developed UI using React and integrated REST APIs.
-- Implemented backend services with Spring Boot and JPA.
-- Used PostgreSQL for persistent data storage.  
-🛠️ **Tech Stack**: React, Java, Spring Boot, Spring MVC, JPA, PostgreSQL  
-🔧 **Tools**: IntelliJ IDEA, VS Code, Maven, Postman
+📖 **Overview**: A full-stack web application for users to create, view, and manage interactive stories securely.  
+
+💼 **Responsibilities**:
+- Developed React frontend with form validation and routing.
+- Implemented Spring Boot RESTful APIs and JPA for persistence.
+- Handled authentication and data management with PostgreSQL.
+  
+🛠️ **Tech Stack**: Java, Spring Boot, Spring MVC, JPA, React, PostgreSQL, REST APIs  
+🔧 **Tools**: IntelliJ IDEA, VS Code, Maven, Postman, Git, GitHub, Figma
 
 ---
 
 #### 4. Birthday Event Planner
-🎉 **Overview**: A planning tool that manages events, guests, budgets, and schedules with secure authentication.  
-🔐 **Features**:
-- Spring Security with JWT-based login.
-- Redux for state management and lazy loading for optimization.
-- Integrated full-stack features with Vite + Spring Boot.  
-🛠️ **Tech Stack**: React, Redux, Vite, Spring Boot, Spring Security, JWT, JPA, PostgreSQL  
-🔧 **Tools**: VS Code, Eclipse, Maven, Postman
+🎉 **Overview**: A secure, full-featured event planning application for managing guest lists, budgets, and scheduling.  
+
+💼 **Responsibilities**:
+- Built user interface with React, Redux, and Vite.
+- Implemented JWT authentication using Spring Security.
+- Applied lazy loading and routing for performance optimization.
+  
+🛠️ **Tech Stack**: React, Redux, Vite, Java, Spring Boot, Spring Security, JWT, JPA, PostgreSQL 
+🔧 **Tools**: Eclipse, VS Code, Postman, Maven, Git, GitHub, Figma
 
 ---
 
 #### 5. Cricket Stats Website
-🏏 **Overview**: A web app to visualize player and match statistics using dynamic charts and RESTful APIs.  
-📊 **Responsibilities**:
-- Developed React components for charts and stats.
-- Designed REST APIs in Spring Boot and connected with PostgreSQL.  
-🛠️ **Tech Stack**: React, Spring Boot, JPA, PostgreSQL, Axios, Chart.js  
-🔧 **Tools**: IntelliJ IDEA, VS Code, Maven, Postman
+🏏 **Overview**: Interactive web app to explore cricket match and player statistics with dynamic data visualization.  
+
+💼 **Responsibilities**:
+- Designed frontend in React and integrated Chart.js for statistics.
+- Developed RESTful APIs using Spring Boot and managed data using JPA and PostgreSQL.
+
+🛠️ **Tech Stack**: React, Java, Spring Boot, JPA, PostgreSQL, Axios, Chart.js  
+🔧 **Tools**: IntelliJ IDEA, VS Code, Maven, Postman, Git, GitHub, Figma
 
 ---
 
 #### 6. Restaurant Management System
-🍽️ **Overview**: An app for managing restaurant operations like table booking, order tracking, and menus.  
+🍽️ **Overview**: Web-based application for managing restaurant operations such as menu, orders, and table bookings.  
+
 💼 **Responsibilities**:
-- Built CRUD operations with Spring Boot and MySQL.
-- Designed the UI with React and styled using Bootstrap.  
-🛠️ **Tech Stack**: React, Spring Boot, JPA, MySQL, REST APIs, Bootstrap  
-🔧 **Tools**: IntelliJ IDEA, VS Code, MySQL Workbench, Postman, Maven
+- Created dynamic UI using React and Bootstrap.
+- Implemented backend with Spring Boot and database operations using MySQL.
+- Built REST APIs for CRUD operations.
+  
+🛠️ **Tech Stack**: React, Java, Spring Boot, Spring Data JPA, MySQL, Bootstrap  
+🔧 **Tools**: IntelliJ IDEA, VS Code, MySQL Workbench, Maven, Postman, Git, GitHub
 
 ---
 
 #### 7. E-commerce React App
-🛒 **Overview**: A basic e-commerce frontend to display products and simulate shopping actions.  
-💡 **Responsibilities**:
-- Designed responsive layouts using CSS3 and React components.
-- Implemented product listing and cart UI.  
+🛒 **Overview**: A beginner-level frontend e-commerce interface for product browsing and shopping simulation.
+
+💼 **Responsibilities**:
+- Built responsive product pages using React, CSS3, and JSX.
+- Designed user-friendly layouts and basic UI components.
+  
 🛠️ **Tech Stack**: React, HTML5, CSS3, JavaScript (ES6), JSX  
-🔧 **Tools**: VS Code
+🔧 **Tools**: VS Code, Git, GitHub, Figma
 
 ---
+
 
 
 ## 📜 Certificates
