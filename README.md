@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @HARIHARANS24
+- 👀 I’m interested in Full-Stack Development, Data Analytics, and AI-based solutions
+- 🌱 I’m currently learning Microservices Architecture, Cloud Deployment (AWS), and Advanced Data Science techniques
+- 💞️ I’m looking to collaborate on real-world tech projects, especially in web development and machine learning
+- 📫 How to reach me: hariharan24hs@gmail.com | [LinkedIn](https://linkedin.com/in/hariharan-s24)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love turning ideas into interactive web apps and exploring how AI can solve everyday problems!
