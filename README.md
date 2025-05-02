@@ -115,21 +115,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HARIHARANS24&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📈 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HARIHARANS24&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
----
 
 
 ### 🌱 I'm always learning new technologies, and I'm currently working on projects involving:
