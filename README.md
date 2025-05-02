@@ -36,12 +36,12 @@
 ### 🧰 Tools & Platforms
 
 <p>
-  <img height="40" src="https://img.icons8.com/fluency/48/000000/postman-api.png"/>
+ 
   <img height="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
   <img height="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
   <img height="40" src="https://img.icons8.com/color/48/000000/git.png"/>
   <img height="40" src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
-  <img height="40" src="https://img.icons8.com/color/48/000000/netlify.png"/>
+  
 </p>
 
 ---
