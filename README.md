@@ -103,33 +103,32 @@ Anticipates equipment failures using sensor data analysis.
 ## 📜 Certificates
 
 - **AI & Data Science**
-  - AI in Healthcare
-  - Build Website with AI
-  - CS205: Building with Artificial Intelligence
-  - Data Science & Analytics
-  - Start Your Data Analysis Journey: Build Your Own Movie Recommendation System
+  - *AI in Healthcare* – Great Learning
+  - *Build Website with AI* – Simplilearn
+  - *CS205: Building with Artificial Intelligence* – Saylor Academy
+  - *Data Science & Analytics* – HP Foundation
+  - *Start Your Data Analysis Journey: Build Your Own Movie Recommendation System* – OpenWeaver
 
 - **Cybersecurity & Networking**
-  - Introduction to Cybersecurity Certificate
-  - Cybersecurity Essentials Certificate
-  - CCNA: Introduction to Networks Certificate
-  - CS402: Computer Communications and Networks
-  - CS406: Information Security
+  - *Introduction to Cybersecurity Certificate* – Cisco Networking Academy
+  - *Cybersecurity Essentials Certificate* – Cisco Networking Academy
+  - *CCNA: Introduction to Networks Certificate* – Cisco Networking Academy
+  - *CS402: Computer Communications and Networks* – Saylor Academy
+  - *CS406: Information Security* – Saylor Academy
 
 - **Computer Science**
-  - CS105: Introduction to Python
-  - CS201: Elementary Data Structures
-  - CS301: Computer Architecture
-  - CS401: Operating Systems
+  - *CS105: Introduction to Python* – Saylor Academy
+  - *CS201: Elementary Data Structures* – Saylor Academy
+  - *CS301: Computer Architecture* – Saylor Academy
+  - *CS401: Operating Systems* – Saylor Academy
 
 - **AWS & Cloud**
-  - AWS Cloud Practitioner Essentials
-  - AWS: Configure and Deploy AWS Client VPN
-  - AWS: Introduction to Amazon Certificate Manager Private Certificate Authority
+  - *AWS Cloud Practitioner Essentials* – AWS
+  - *Configure and Deploy AWS Client VPN* – AWS
+  - *Introduction to Amazon Certificate Manager Private Certificate Authority* – AWS
 
 - **Robotics**
-  - Robotics and AI
-
+  - *Robotics and AI* – Great Learning
 
 ---
 
