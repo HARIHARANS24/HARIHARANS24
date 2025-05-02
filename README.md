@@ -81,24 +81,45 @@
 
 ---
 
-### 🛠️ Projects
+### 💻 Projects
 
-#### 📝 Storytelling Website
-A full-stack web app where users can read and submit stories.  
-**Tech Stack:** React.js | Spring Boot | MySQL  
-✅ REST API | 🔊 Speech Synthesis for accessibility
+1. **Hybrid-ANN-PCA-MLP Model for Credit Card Fraud Detection**  
+   Combines Principal Component Analysis (PCA) for dimensionality reduction with a Multi-Layer Perceptron (MLP) for precise and efficient credit card fraud detection.  
+   **Tech Stack**: Python, Scikit-learn, PCA, MLP, NumPy, Matplotlib, Pandas  
+   **Tools**: Jupyter Notebook, Anaconda, VS Code, Git, GitHub  
 
-#### 🎉 Birthday Event Booking
-End-to-end platform for event planning and booking with secure payments.  
-**Tech Stack:** React.js | Spring Boot | PostgreSQL  
-🔐 JWT & Spring Security | 💳 Payment Gateway | 🧩 Microservices
+2. **Predictive Maintenance Using Machine Learning**  
+   Predicts equipment failures to reduce downtime, featuring a frontend dashboard built with React and visualizations using Chart.js and React Charts.  
+   **Tech Stack**: React, Chart.js, React Charts, JavaScript, Python, Pandas, Scikit-learn  
+   **Tools**: VS Code, Jupyter Notebook, Anaconda, Postman, Git, GitHub  
 
-#### 🔧 Predictive Maintenance System
-Anticipates equipment failures using sensor data analysis.  
-**Tech Stack:** React.js | Flask | Python  
-📊 Real-time prediction | 🚨 Proactive alerts | 🔁 Flask-CORS Integration
+3. **Storytelling Platform (React + Spring Boot)**  
+   A user-driven content platform that enables users to create, view, and manage stories with secure backend operations.  
+   **Tech Stack**: React, Java, Spring Boot, Spring MVC, JPA, PostgreSQL, REST APIs  
+   **Tools**: IntelliJ IDEA, VS Code, Maven, Postman, Git, GitHub  
+
+4. **Birthday Event Planner (React + Vite + Spring Boot + Security)**  
+   Event planning app with features like guest list management, event scheduling, and budget tracking. Implements secure user login with JWT and Spring Security, Redux for state management, and lazy loading for performance.  
+   **Tech Stack**: React, Redux, Vite, Java, Spring Boot, Spring Security, JWT, JPA, PostgreSQL, REST APIs  
+   **Tools**: VS Code, Eclipse, Postman, Maven, Git, GitHub  
+
+5. **Cricket Stats Website (React + Spring Boot + JPA)**  
+   Visualizes cricket statistics including players and matches. Provides interactive UI and RESTful backend APIs.  
+   **Tech Stack**: React, Java, Spring Boot, JPA, PostgreSQL, Axios, Chart.js  
+   **Tools**: IntelliJ IDEA, VS Code, Maven, Postman, Git, GitHub  
+
+6. **Restaurant Management System (React + Spring Boot + JPA)**  
+   Streamlines restaurant operations with modules for order management, table bookings, and digital menus.  
+   **Tech Stack**: React, Java, Spring Boot, Spring Data JPA, MySQL, REST APIs, Bootstrap  
+   **Tools**: IntelliJ IDEA, VS Code, MySQL Workbench, Postman, Maven, Git, GitHub  
+
+7. **E-commerce React App**  
+   A simple front-end e-commerce application to display products and simulate a shopping experience.  
+   **Tech Stack**: React, HTML5, CSS3, JavaScript (ES6), JSX  
+   **Tools**: VS Code, Git, GitHub  
 
 ---
+
 
 ## 📜 Certificates
 
@@ -136,11 +157,25 @@ Anticipates equipment failures using sensor data analysis.
 
 ### 💼 Internship
 
+📄 [View Internship Certificate](https://drive.google.com/file/d/11Gs-2o1XQrO2arGEhGgK-rZUdf0Q8QDk/view?usp=drive_link)
+
 **Full Stack Java Development Intern**  
 📍 SMC Technologies, Coimbatore  
-🗓️ May 2024 - June 2024
+🗓️ May 2024 - June 2024  
+
+During my internship at SMC Technologies, I worked on building and maintaining full-stack web applications using Java and modern frontend frameworks. I was involved in developing RESTful APIs, handling database operations, and designing interactive UI components. This experience enhanced my skills in both backend logic and frontend responsiveness, while also exposing me to version control, debugging techniques, and deployment practices.
+
+**Key Contributions:**
+- Built and tested RESTful APIs using Spring Boot and Java.
+- Designed responsive front-end interfaces using HTML, CSS, JavaScript, and React.
+- Implemented authentication modules with Spring Security and JWT.
+- Participated in Agile sprints, code reviews, and team meetings to improve collaborative development.
+- Worked with MySQL for relational data management and Postman for API testing.
+
+**Tech Stack**: Java, Spring Boot, Spring Security, React, HTML, CSS, JavaScript, MySQL, Postman, Git, Maven, VS Code, Eclipse
 
 ---
+
 
 ### 📚 Education
 
