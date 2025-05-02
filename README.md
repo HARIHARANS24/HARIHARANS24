@@ -129,8 +129,9 @@
 - Built user interface with React, Redux, and Vite.
 - Implemented JWT authentication using Spring Security.
 - Applied lazy loading and routing for performance optimization.
-  
+
 🛠️ **Tech Stack**: React, Redux, Vite, Java, Spring Boot, Spring Security, JWT, JPA, PostgreSQL
+
 🔧 **Tools**: Eclipse, VS Code, Postman, Maven, Git, GitHub, Figma
 
 ---
