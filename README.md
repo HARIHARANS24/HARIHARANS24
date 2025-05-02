@@ -100,12 +100,36 @@ Anticipates equipment failures using sensor data analysis.
 
 ---
 
-### 📜 Certifications
+## 📜 Certificates
 
-- Robotics and AI – Great Learning  
-- AWS Cloud Practitioner Essentials – AWS  
-- Cybersecurity Essentials – Cisco  
-- Computer Networks – Saylor Academy  
+- **AI & Data Science**
+  - AI in Healthcare
+  - Build Website with AI
+  - CS205: Building with Artificial Intelligence
+  - Data Science & Analytics
+  - Start Your Data Analysis Journey: Build Your Own Movie Recommendation System
+
+- **Cybersecurity & Networking**
+  - Introduction to Cybersecurity Certificate
+  - Cybersecurity Essentials Certificate
+  - CCNA: Introduction to Networks Certificate
+  - CS402: Computer Communications and Networks
+  - CS406: Information Security
+
+- **Computer Science**
+  - CS105: Introduction to Python
+  - CS201: Elementary Data Structures
+  - CS301: Computer Architecture
+  - CS401: Operating Systems
+
+- **AWS & Cloud**
+  - AWS Cloud Practitioner Essentials
+  - AWS: Configure and Deploy AWS Client VPN
+  - AWS: Introduction to Amazon Certificate Manager Private Certificate Authority
+
+- **Robotics**
+  - Robotics and AI
+
 
 ---
 
