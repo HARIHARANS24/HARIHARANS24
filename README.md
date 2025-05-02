@@ -102,6 +102,8 @@ Anticipates equipment failures using sensor data analysis.
 
 ## 📜 Certificates
 
+📁 [View All Certificates on Google Drive](https://drive.google.com/drive/folders/1L3ESCnIOdprjeYxlH4bzZq6gQxIqSMZC?usp=drive_link)
+
 - **AI & Data Science**
   - *AI in Healthcare* – Great Learning
   - *Build Website with AI* – Simplilearn
