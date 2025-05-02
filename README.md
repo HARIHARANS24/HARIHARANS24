@@ -144,13 +144,26 @@ Anticipates equipment failures using sensor data analysis.
 
 ### 📚 Education
 
-**B.Tech in AI & Data Science**  
-Sri Krishna College Of Technology, Coimbatore  
-📅 Dec 2021 - Mar 2025 | 📊 CGPA: 7.22  
-
-**HSC** – 77%  
-**SSLC** – 66%  
+**Bachelor of Technology in Artificial Intelligence & Data Science**  
+Sri Krishna College of Technology, Coimbatore  
+📅 Dec 2021 - Mar 2025  
+📊 CGPA: 7.22  
 
 ---
+
+**Higher Secondary Certificate (HSC) - Computer Science**  
+Kamaraj Matriculation Higher Secondary School, Kovilpatti  
+📅 June 2020 - May 2021  
+📈 77%
+
+---
+
+**Secondary School Leaving Certificate (SSLC)**  
+Kamaraj Matriculation Higher Secondary School, Kovilpatti  
+📅 June 2018 - Mar 2019  
+📈 66%
+
+---
+
 
 ![Hariharan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HARIHARANS24&theme=dark&show_icons=true&hide=issues)
