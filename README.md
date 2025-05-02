@@ -4,7 +4,6 @@
 💡 Passionate about building real-world tech solutions with AI, full-stack web apps, and cloud platforms  
 🌱 Continuously learning and leveling up through hands-on projects and certifications  
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 ---
 
