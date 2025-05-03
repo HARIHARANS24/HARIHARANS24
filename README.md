@@ -34,91 +34,78 @@
 
 # 🛠️ Technologies, Tools & Platforms
 
-## 🌐 Cloud Platforms
-<p align="Left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" width="40"/> 
+## 👨‍💻 Programming Languages & Frameworks
+
+<p align="Left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40"/>
 </p>
 
-## 🛠️ DevOps & CI/CD Tools
-<p align="Left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-original.svg" alt="CircleCI" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppet/puppet-original.svg" alt="Puppet" width="40"/> 
+---
+
+## 🗃️ Databases
+
+<p align="Left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40"/>
 </p>
 
-## 🗄️ Databases & Data Warehousing
-<p align="Left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" alt="Cassandra" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elastic/elasticsearch-original.svg" alt="Elasticsearch" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" alt="Snowflake" width="40"/> 
+---
+
+## 🧰 Tools & DevOps
+
+<p align="Left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ci/ci-original.svg" alt="Continuous Integration" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40"/>
 </p>
 
-## 🔒 Security & Authentication
-<p align="Left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/auth0/auth0-original.svg" alt="Auth0" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" alt="OAuth" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/okta/okta-original.svg" alt="Okta" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/letsencrypt/letsencrypt-original.svg" alt="Let's Encrypt" width="40"/> 
+---
+
+## 💻 Platforms & IDEs
+
+<p align="Left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" alt="Atom" width="40"/>
 </p>
 
-## 💡 Design & UI/UX Tools
-<p align="Left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobe/illustrator-plain.svg" alt="Illustrator" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobe/photoshop-plain.svg" alt="Photoshop" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" alt="Sketch" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axure/axure-original.svg" alt="Axure" width="40"/> 
-</p>
-
-## 📱 Mobile Development
-<p align="Left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" alt="Xamarin" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40"/> 
-</p>
-
-## 📊 Data Science & Machine Learning
-<p align="Left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40"/> 
-</p>
-
-## 🗂️ Version Control Systems
-<p align="Left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" alt="Subversion" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mercurial/mercurial-original.svg" alt="Mercurial" width="40"/> 
-</p>
-
-## 🧑‍💻 IDEs & Editors
-<p align="Left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" alt="Atom" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublime/sublime-original.svg" alt="Sublime Text" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/brackets/brackets-original.svg" alt="Brackets" width="40"/> 
-</p>
-
-## 🛠️ Miscellaneous Tools & Libraries
-<p align="Left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="Babel" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lodash/lodash-original.svg" alt="Lodash" width="40"/> 
-</p>
 
 
 ## 📊 GitHub Stats
