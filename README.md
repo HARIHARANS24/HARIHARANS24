@@ -48,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40](https://www.google.com/imgres?q=tailwind%20css%20logo&imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F293%2F485%2Fpng-transparent-tailwind-css-hd-logo.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-aygwc&docid=3iO1FP-SCLCdFM&tbnid=L7SQokr18PYEFM&vet=12ahUKEwjE7cPU-4yNAxXGs1YBHYEgNkUQM3oECFMQAA..i&w=920&h=552&hcb=2&ved=2ahUKEwjE7cPU-4yNAxXGs1YBHYEgNkUQM3oECFMQAA)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="Babel" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Maven" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" alt="Hibernate" width="40"/>
