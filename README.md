@@ -17,9 +17,9 @@
 
 - AI/ML algorithms & model deployment
 
-- Full-stack development (React, Next.js, Flask, Spring Boot)
+- Full-stack development (React, Chart.js, Flask, Spring Boot)
 
-- Cloud & DevOps (AWS, Docker, Kubernetes, CI/CD)
+- Cloud & DevOps (AWS, CI/CD)
 
 🌱 Constantly learning and working on projects in:
 
