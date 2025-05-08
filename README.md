@@ -116,7 +116,9 @@
 <!-- Vite.js -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" alt="Vite.js" width="40"/>
 </div>
+
 #
+
 ### Databases
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
