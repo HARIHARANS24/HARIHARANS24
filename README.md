@@ -11,30 +11,23 @@
 
 # Hi there 👋 I'm Hariharan S
 
-🎓 B.Tech in Artificial Intelligence and Data Science
-📍 Sri Krishna College of Technology
+🎓 B.Tech in AI & Data Science | 📍 Sri Krishna College of Technology
 
-💡 I'm passionate about building real-world tech solutions using:
+💡 Passionate about building impactful tech solutions using:
 
-- Artificial Intelligence & Machine Learning
+- AI/ML algorithms & model deployment
 
-- Full-stack web development
+- Full-stack development (React, Next.js, Flask, Spring Boot)
 
-- Cloud platforms and DevOps practices
+- Cloud & DevOps (AWS, Docker, Kubernetes, CI/CD)
 
-🌱 I'm a continuous learner, currently working on hands-on projects involving:
+🌱 Constantly learning and working on projects in:
 
-- AI/ML algorithms and model deployment
+- Data engineering & analytics (Python, Jupyter, databases)
 
-- Full-stack applications using React, Next.js, Flask, and Spring Boot
+- Scalable, real-world applications
 
-- Cloud infrastructure with AWS, Docker, and Kubernetes
-
-- CI/CD pipelines and modern DevOps workflows
-
-- Data engineering and analytics with Python, Jupyter Notebooks, and various databases
-
-🚀 I love exploring how technology can solve real-world problems and I'm always eager to collaborate, innovate, and grow.
+🚀 Excited to innovate, collaborate, and solve real-world problems through tech.
 
 ---
 
