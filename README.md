@@ -117,6 +117,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" alt="Vite.js" width="40"/>
 </div>
 
+#
+
 ### 💾 Databases
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -130,12 +132,16 @@
 <img src="https://images.ctfassets.net/po4qc9xpmpuh/3DXFDcf1EO2D7mwb2r7RTM/62e5c1b9a070d21a0288d9dc9148a914/nosql.png" alt="NoSQL" width="40"/>
 </div>
 
+#
+
 ### 🧪 Testing & Automation
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <!-- Selenium -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40"/>
 </div>
+
+#
 
 ### 🛠️ Tools & Platforms
 
@@ -165,6 +171,8 @@
 <!-- npm -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40"/>
 </div>
+
+#
 
 ### 🎨 Design & Documentation
 
