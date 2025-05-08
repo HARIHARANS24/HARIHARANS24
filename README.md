@@ -190,9 +190,6 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HARIHARANS24&theme=tokyonight" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HARIHARANS24&show_icons=true&theme=tokyonight&hide_title=false" />
 </p>
 <p align="center">
