@@ -52,7 +52,7 @@
 
 # ✅ Technical Skills
 
-### 🧠 Programming Languages & Frameworks
+### Programming Languages & Frameworks
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 <!-- C -->
@@ -119,7 +119,7 @@
 
 #
 
-### 💾 Databases
+### Databases
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 <!-- SQL -->
@@ -134,7 +134,7 @@
 
 #
 
-### 🧪 Testing & Automation
+### Testing & Automation
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <!-- Selenium -->
@@ -143,7 +143,7 @@
 
 #
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 <!-- VS Code -->
@@ -174,7 +174,7 @@
 
 #
 
-### 🎨 Design & Documentation
+### Design & Documentation
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <!-- Figma -->
