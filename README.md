@@ -371,3 +371,4 @@ Kamaraj Matriculation Higher Secondary School, Kovilpatti
 > 🧠 *“Strive not to be a success, but rather to be of value.” – Albert Einstein*
 
 ---
+<img src="https://raw.githubusercontent.com/HARIHARANS24/HARIHARANS24/output/snake.svg" alt="Snake animation" />
