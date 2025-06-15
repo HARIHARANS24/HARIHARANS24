@@ -1,4 +1,4 @@
-<!-- Banner -->
+ <!-- Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B+I'm+Hariharan+S;AI+%26+Full-Stack+Developer;Cloud+%7C+DevOps+%7C+ML+Enthusiast;Welcome+to+my+GitHub+Profile!" />
 </p>
