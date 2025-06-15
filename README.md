@@ -9,7 +9,7 @@
 
 ---
 
-# Hi there 👋 I'm Hariharan S
+# Hi there 👋 I'm Hariharan S 
 
 🎓 B.Tech in AI & Data Science | 📍 Sri Krishna College of Technology
 
