@@ -206,3 +206,12 @@
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=HARIHARANS24&theme=gruvbox&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+### 📊 GitHub Stats
+
+![Hariharan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HARIHARANS24&show_icons=true&theme=radical&count_private=true&hide=prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HARIHARANS24&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HARIHARANS24&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HARIHARANS24&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
