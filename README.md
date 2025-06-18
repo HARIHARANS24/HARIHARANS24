@@ -81,6 +81,7 @@
 <td><strong>Languages</strong></td>
 <td>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></a>
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></a>
@@ -127,6 +128,7 @@
   <a href="https://hibernate.org/"><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" /></a>
   <a href="https://junit.org/"><img src="https://img.shields.io/badge/JUnit-25A162?style=flat" /></a>
   <a href="https://maven.apache.org/"><img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white" /></a>
+  <a href="https://graphql.org/"><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" /></a>
 </td>
 </tr>
 
@@ -135,6 +137,7 @@
 <td>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /></a>
 </td>
 </tr>
 
@@ -143,7 +146,9 @@
 <td>
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /></a>
   <a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" /></a>
-  <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" /></a>
+  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://render.com/"><img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </td>
@@ -154,6 +159,8 @@
 <td>
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /></a>
   <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /></a>
+  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" /></a>
   <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black" /></a>
   <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" /></a>
 </td>
@@ -163,6 +170,9 @@
 <td><strong>Testing & Automation</strong></td>
 <td>
   <a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" /></a>
+  <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" /></a>
+  <a href="https://mochajs.org/"><img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white" /></a>
+  <a href="https://www.chaijs.com/"><img src="https://img.shields.io/badge/Chai-A30701?style=flat" /></a>
 </td>
 </tr>
 
@@ -176,6 +186,7 @@
   <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" /></a>
   <a href="https://swagger.io/tools/swagger-ui/"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" /></a>
   <a href="https://developer.chrome.com/docs/devtools/"><img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /></a>
 </td>
 </tr>
 
@@ -189,3 +200,4 @@
 </tbody>
 </table>
 </div>
+
