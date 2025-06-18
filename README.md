@@ -1,19 +1,5 @@
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://komarev.com/ghpvc/?username=hariharans24&color=blue" alt="Profile views" />
-      </td>
-      <td>
-        <a href="https://www.buymeacoffee.com/hariharan22" target="_blank" rel="noreferrer">
-          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 <h1 align="center">Hi 👋, I'm HARIHARAN S</h1>
-<h3 align="center">Full-Stack Developer | Data Science & Analytics Engineer | AI/ML Practitioner | Tech Explorer from India</h3>
+<h3 align="center">👨‍💻 Full-Stack Developer | 📊 Data Science & Analytics Engineer | 🤖 AI/ML Practitioner | 🇮🇳 India</h3>
 
 ---
 
