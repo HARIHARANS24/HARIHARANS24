@@ -4,7 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=hariharans24&color=blue" alt="Profile views" />
 </p>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/HARIHARANS24/count.svg?"  />
+</div>
 
+###
 
 ## 🏆 GitHub Trophies
 <p align="center">
