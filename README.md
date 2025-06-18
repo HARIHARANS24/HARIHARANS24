@@ -1,5 +1,20 @@
 <h1 align="center">Hi 👋, I'm HARIHARAN S</h1>
 <h3 align="center">👨‍💻 Full-Stack Developer | 📊 Data Science & Analytics Engineer | 🤖 AI/ML Practitioner | 🇮🇳 India</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://komarev.com/ghpvc/?username=hariharans24&color=blue" alt="Profile views" />
+      </td>
+      <td>
+        <a href="https://www.buymeacoffee.com/hariharan22" target="_blank" rel="noreferrer">
+          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
@@ -227,3 +242,4 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/hariharan-
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HARIHARANS24/HARIHARANS24/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HARIHARANS24/HARIHARANS24/output/pacman-contribution-graph.svg">
 </picture>
+
