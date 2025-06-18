@@ -243,3 +243,12 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/hariharan-
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HARIHARANS24/HARIHARANS24/output/pacman-contribution-graph.svg">
 </picture>
 
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
+</p>
+
+> 🧠 *“Strive not to be a success, but rather to be of value.” – Albert Einstein*
+
+---
