@@ -33,7 +33,7 @@ React.js • Spring Boot • Flask • REST APIs • MERN Stack • Streamlit �
 hariharan24hs@gmail.com
 
 🌐 **My Portfolio**
-[https://hariharan-developer.web.app/](https://hariharan-developer.web.app/)
+[Portfolio](https://hariharan-developer.web.app/)
 
 📄 **View My Resume**
 [Click here](https://drive.google.com/file/d/1wK1fHbVqI_W0z5Tk5epdzv2pjoHiqaYJ/view?usp=drive_link)
