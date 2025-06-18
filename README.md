@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm HARIHARAN S</h1>
-<h3 align="center">💻 Full-Stack Developer | 📊 Data Science & Analytics Engineer | 🧠 AI/ML Practitioner | 🌐 Tech Explorer from India</h3>
+<h3 align="center">Full-Stack Developer | Data Science & Analytics Engineer | AI/ML Practitioner | Tech Explorer from India</h3>
 
 ---
 
 🚀 **About Me**
 
-I'm a passionate B.Tech graduate specializing in Artificial Intelligence and Data Science, with a love for crafting end-to-end web applications and building intelligent systems. I enjoy solving real-world problems using scalable software, powerful APIs, and machine learning models.
+Tech enthusiast with a B.Tech in Artificial Intelligence and Data Science from India. Specializes in Full-Stack Development, Data Science & Analytics, and AI/ML. Experienced in building scalable web applications and intelligent systems using React.js, Spring Boot, Flask, PostgreSQL, and AWS. Focus areas include software engineering, machine learning workflows, API development, and cloud-based deployment.
 
 ---
 
