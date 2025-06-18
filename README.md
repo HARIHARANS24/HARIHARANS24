@@ -4,43 +4,59 @@
   <img src="https://komarev.com/ghpvc/?username=hariharans24&color=blue" alt="Profile views" />
 </p>
 
----
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hariharans24&theme=algolia" alt="trophies" />
 </p>
 
----
+
 
 ## 🔥 GitHub Streaks
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariharans24" alt="streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariharans24&theme=dark" alt="streak-stats" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HARIHARANS24&theme=radical" alt="github-stats" />
-</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HARIHARANS24/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub statistics" />
-</p>
+<div align="center">
 
----
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=HARIHARANS24&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/HARIHARANS24/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Statistics" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
 
 ## 🚀 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARIHARANS24&layout=compact&theme=radical" alt="top-languages" />
-</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HARIHARANS24/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="languages by file size" />
-</p>
+<div align="center">
 
----
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARIHARANS24&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/HARIHARANS24/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages by File Size" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
 
 ## 📈 Activity Graph
 <p align="center">
