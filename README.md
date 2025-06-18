@@ -8,7 +8,7 @@
 </p>
 
 ---
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HARIHARANS24&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 # Hi there 👋 I'm Hariharan S
 
 🎓 B.Tech in AI & Data Science | 📍 Sri Krishna College of Technology
