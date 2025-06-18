@@ -1,4 +1,53 @@
-<h1 align="center">Hi 👋, I'm Hariharan</h1>
+<h1 align="center">Hi 👋, I'm HARIHARAN S</h1>
+<h3 align="center">💻 Full-Stack Developer | 📊 Data Science & Analytics Engineer | 🧠 AI/ML Practitioner | 🌐 Tech Explorer from India</h3>
+
+---
+
+🚀 **About Me**
+
+I'm a passionate B.Tech graduate specializing in Artificial Intelligence and Data Science, with a love for crafting end-to-end web applications and building intelligent systems. I enjoy solving real-world problems using scalable software, powerful APIs, and machine learning models.
+
+---
+
+🌟 **Currently Working On**
+- 🔨 [Job Portal](https://github.com/HARIHARANS24/jobportal-springboot-react) – A full-stack job portal using React & Spring Boot
+
+🤝 **Open to Collaborate On**
+- 🗣️ [Storytelling Platform](https://github.com/HARIHARANS24/storytelling-platform-react-springboot) – A speech-enabled content sharing web app
+
+🧠 **Looking for Help With**
+- 🛠️ [Predictive Maintenance with ML](https://github.com/HARIHARANS24/predictive-maintenance-using-machinelearning) – Optimizing model performance and deployment strategies
+
+📚 **Currently Learning**
+- Spring Security & JWT  
+- Docker, CI/CD, and deployment best practices  
+- Advanced React patterns  
+- ML model tuning & MLOps workflows
+
+---
+
+💬 **Ask Me About**
+React.js • Spring Boot • Flask • REST APIs • MERN Stack • Streamlit • AI/ML
+
+📫 **Reach Me At**
+hariharan24hs@gmail.com
+
+🌐 **My Portfolio**
+[https://hariharan-developer.web.app/](https://hariharan-developer.web.app/)
+
+📄 **View My Resume**
+[Click here](https://drive.google.com/file/d/1wK1fHbVqI_W0z5Tk5epdzv2pjoHiqaYJ/view?usp=drive_link)
+
+📝 **Certifications & Learning Path**
+Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/hariharan-s24)
+
+---
+
+⚡ **Fun Fact**  
+I almost trained an ML model to predict who loves paneer biryani... it's still learning. 😄
+
+---
+
 
 <div align="center">
   <table>
