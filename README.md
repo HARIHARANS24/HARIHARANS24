@@ -29,6 +29,9 @@
 
 🚀 Excited to innovate, collaborate, and solve real-world problems through tech.
 
+<img src="https://raw.githubusercontent.com/hariharans24/hariharans24/output/snake.svg" alt="Snake animation" />
+
+###
 ---
 
 # 🔗 Connect with Me
