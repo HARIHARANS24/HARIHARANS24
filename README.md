@@ -15,8 +15,6 @@
 </div>
 <h3 align="center">Full-Stack Developer | Data Science & Analytics Engineer | AI/ML Practitioner | Tech Explorer from India</h3>
 
-
-
 ---
 
 🚀 **About Me**
