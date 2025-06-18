@@ -24,7 +24,7 @@
 
 🚀 **About Me**
 
-Tech enthusiast with a B.Tech in Artificial Intelligence and Data Science from India. Specializes in Full-Stack Development, Data Science & Analytics, and AI/ML. Experienced in building scalable web applications and intelligent systems using React.js, Spring Boot, Flask, PostgreSQL, and AWS. Focus areas include software engineering, machine learning workflows, API development, and cloud-based deployment.
+Tech professional with a B.Tech in Artificial Intelligence and Data Science from India. Specializes in Full-Stack Development, Data Science & Analytics, and AI/ML. Experienced in building scalable web applications and intelligent systems using React.js, Spring Boot, Flask, PostgreSQL, and AWS. Focus areas include software engineering, machine learning workflows, API development, and cloud-based deployment.
 
 ---
 
