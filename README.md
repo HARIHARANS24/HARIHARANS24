@@ -235,7 +235,7 @@ I almost trained an ML model to predict who loves paneer biryani... it's still l
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARIHARANS24&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 </p>
 
-
+## 🎮 Pacman Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HARIHARANS24/HARIHARANS24/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HARIHARANS24/HARIHARANS24/output/pacman-contribution-graph.svg">
