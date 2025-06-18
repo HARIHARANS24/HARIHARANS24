@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm HARIHARAN S</h1>
 <div align="center">
   <table>
     <tr>
@@ -13,6 +12,7 @@
     </tr>
   </table>
 </div>
+<h1 align="center">Hi 👋, I'm HARIHARAN S</h1>
 <h3 align="center">Full-Stack Developer | Data Science & Analytics Engineer | AI/ML Practitioner | Tech Explorer from India</h3>
 
 ---
