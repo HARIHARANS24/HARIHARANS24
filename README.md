@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/HARIHARANS24/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/BALADURGAG24/count.svg?"  />
 </div>
 
 ###
