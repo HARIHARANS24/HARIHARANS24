@@ -57,8 +57,7 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/hariharan-
 
 ---
 
-⚡ **Fun Fact**  
-I almost trained an ML model to predict who loves paneer biryani... it's still learning. 😄
+⚡ **Fun Fact**: This fun fact is still in beta. Please send feedback to my overworked brain.
 
 ---
 
@@ -187,6 +186,7 @@ I almost trained an ML model to predict who loves paneer biryani... it's still l
 </table>
 </div>
 
+---
 
 ## 🏆 GitHub Trophies
 <p align="center">
