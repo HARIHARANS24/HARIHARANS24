@@ -1,8 +1,19 @@
 <h1 align="center">Hi 👋, I'm Hariharan</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hariharans24&color=blue" alt="Profile views" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://komarev.com/ghpvc/?username=hariharans24&color=blue" alt="Profile views" />
+      </td>
+      <td>
+        <a href="https://www.buymeacoffee.com/hariharan22" target="_blank" rel="noreferrer">
+          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HARIHARANS24/HARIHARANS24/output/pacman-contribution-graph-dark.svg">
