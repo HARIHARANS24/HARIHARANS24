@@ -196,25 +196,12 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/hariharan-
   <img src="https://github-profile-trophy.vercel.app/?username=hariharans24&theme=algolia" alt="trophies" />
 </p>
 
-## 🔥 GitHub Streaks
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hariharans24&theme=dark" alt="GitHub Streak" />
-</p>
 
 ## 🔥 GitHub Streaks
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariharans24&theme=dark" alt="streak-stats" />
 </p>
 
-## 🔥 GitHub Streaks
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=baladurgag24&theme=dark" alt="streak-stats" />
-</p>
-
-## 🔥 GitHub Streaks
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=baladurgag24&theme=dark" alt="GitHub Streak" />
-</p>
 
 ## 📊 GitHub Stats
 <div align="center">
