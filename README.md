@@ -233,6 +233,7 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/hariharan-
   </tr>
 </table>
 </div>
+</div>
 
 
 ## 📈 Activity Graph
