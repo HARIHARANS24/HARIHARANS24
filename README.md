@@ -8,7 +8,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://komarev.com/ghpvc/?username=hariharans24&color=blue" alt="Profile views" />
+        <img src="https://komarev.com/ghpvc/?username=HARIHARANS24&color=blue" alt="Profile views" />
       </td>
       <td>
         <a href="https://www.buymeacoffee.com/hariharan22" target="_blank" rel="noreferrer">
@@ -195,7 +195,7 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/hariharan-
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hariharans24&theme=algolia" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HARIHARANS24&theme=algolia" alt="trophies" />
 </p>
 
 
@@ -210,7 +210,7 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/hariharan-
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARIHARANS24&theme=blueberry" alt="GitHub Stats" />
+       <img src="https://github-readme-stats.vercel.app/api?username=HARIHARANS24&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/HARIHARANS24/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Statistics" />
@@ -225,7 +225,7 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/hariharan-
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharans24&layout=compact&theme=radical" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARIHARANS24&layout=compact&theme=radical" alt="Top Languages" />
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/HARIHARANS24/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages by File Size" />
