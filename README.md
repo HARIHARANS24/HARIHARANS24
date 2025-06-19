@@ -199,7 +199,7 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/hariharan-
 
 ## 🔥 GitHub Streaks
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariharans24&theme=dark" alt="streak-stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARIHARANS24&theme=dark" alt="streak-stats" />
 </p>
 
 
