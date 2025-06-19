@@ -62,7 +62,7 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/hariharan-
 
 ---
 
-⚡ **Fun Fact**: This fun fact is still in beta. Please send feedback to my overworked brain.
+>⚡ **Fun Fact**: This fun fact is still in beta. Please send feedback to my overworked brain.
 
 ---
 
@@ -256,3 +256,4 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/hariharan-
 > 🧠 *“Strive not to be a success, but rather to be of value.” – Albert Einstein*
 
 ---
+
