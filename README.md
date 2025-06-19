@@ -210,7 +210,7 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/hariharan-
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=HARIHARANS24&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARIHARANS24&theme=blueberry" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/HARIHARANS24/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Statistics" />
