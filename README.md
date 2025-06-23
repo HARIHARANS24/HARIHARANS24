@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm HARIHARAN S</h1>
-<h3 align="center">👨‍💻 Full-Stack Developer | 📊 Data Science & Analytics Engineer | 🤖 AI/ML Practitioner | 🇮🇳 India</h3>
+<h3 align="center">👨‍💻 Full-Stack Developer | 📊 Data Science & Analytics Engineer | 🤖 AI/ML Practitioner | 🇮🇳 India</h3>  
 <div align="center">
   <table>
     <tr> 
