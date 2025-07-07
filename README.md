@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B+I'm+Hariharan+S;Full-Stack+Developer+%7C+AI%2FML+Practitioner;Cloud+%7C+DevOps+%7C+Data+Analytics+Engineer;Welcome+to+my+GitHub+Profile!" /> 
-</p> 
+</p>  
  
 <h1 align="center">Hi 👋, I'm HARIHARAN S</h1>
 <h3 align="center">👨‍💻 Full-Stack Developer | 📊 Data Science & Analytics Engineer | 🤖 AI/ML Practitioner | 🇮🇳 India</h3>  
