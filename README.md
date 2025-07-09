@@ -79,14 +79,14 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/hariharan-
 <tr>
 <td><strong>Languages</strong></td>
 <td>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /></a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></a>
+<!--   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></a> -->
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></a>
-  <a href="https://262.ecma-international.org/6.0/"><img src="https://img.shields.io/badge/ES6-F7DF1E?style=flat&logo=javascript&logoColor=black" /></a>
+<!--   <a href="https://262.ecma-international.org/6.0/"><img src="https://img.shields.io/badge/ES6-F7DF1E?style=flat&logo=javascript&logoColor=black" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" /></a> -->
   <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-003B57?style=flat" /></a>
   <a href="https://en.wikipedia.org/wiki/NoSQL"><img src="https://img.shields.io/badge/NoSQL-FF6600?style=flat" /></a>
 </td>
@@ -122,10 +122,10 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/hariharan-
   <a href="https://jwt.io/"><img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" /></a>
   <a href="https://restfulapi.net/"><img src="https://img.shields.io/badge/REST_API-00BFFF?style=flat" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Lazy_Loading-000000?style=flat" /></a>
-  <a href="https://hibernate.org/"><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" /></a>
-  <a href="https://junit.org/"><img src="https://img.shields.io/badge/JUnit-25A162?style=flat" /></a>
+<!--   <a href="https://hibernate.org/"><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" /></a>
+  <a href="https://junit.org/"><img src="https://img.shields.io/badge/JUnit-25A162?style=flat" /></a> -->
   <a href="https://maven.apache.org/"><img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white" /></a>
-  <a href="https://graphql.org/"><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" /></a>
+<!--   <a href="https://graphql.org/"><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" /></a> -->
 </td>
 </tr>
 <tr>
@@ -163,9 +163,9 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/hariharan-
 <td><strong>Testing & Automation</strong></td>
 <td>
   <a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" /></a>
-  <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" /></a>
+<!--   <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" /></a>
   <a href="https://mochajs.org/"><img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white" /></a>
-  <a href="https://www.chaijs.com/"><img src="https://img.shields.io/badge/Chai-A30701?style=flat" /></a>
+  <a href="https://www.chaijs.com/"><img src="https://img.shields.io/badge/Chai-A30701?style=flat" /></a> -->
 </td>
 </tr>
 <tr>
@@ -178,7 +178,7 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/hariharan-
   <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" /></a>
   <a href="https://swagger.io/tools/swagger-ui/"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" /></a>
   <a href="https://developer.chrome.com/docs/devtools/"><img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /></a>
+<!--   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /></a> -->
 </td>
 </tr>
 <tr>
