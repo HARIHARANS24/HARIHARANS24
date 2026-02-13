@@ -55,7 +55,7 @@ hariharan24hs@gmail.com
 [Portfolio](https://hariharan-developer.web.app/)
 
 📄 **View My Resume**
-[Click here](https://drive.google.com/file/d/1wK1fHbVqI_W0z5Tk5epdzv2pjoHiqaYJ/view?usp=drive_link)
+[Click here](https://drive.google.com/file/d/1gXfx3DM_i6UWGj6f4HGq54fab1JfpJkE/view?usp=drive_link)
 
 📝 **Certifications & Learning Path**
 Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/hariharan-s24)
