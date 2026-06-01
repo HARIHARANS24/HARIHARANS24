@@ -202,30 +202,15 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/hariharan-
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARIHARANS24&theme=dark" alt="streak-stats" />
 </p>
 
-
 ## 📊 GitHub Stats
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=hariharans24&theme=radical" alt="GitHub Stats" />
+      <img src="https://raw.githubusercontent.com/hariharans24/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages by File Size" />
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/hariharans24/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Statistics" />
-    </td>
-  </tr>
-</table>
-</div>
-
-## 🚀 Most Used Languages
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharans24&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/hariharans24/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages by File Size" />
     </td>
   </tr>
 </table>
